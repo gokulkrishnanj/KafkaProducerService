@@ -1,8 +1,6 @@
 package com.example.ProducerService.Service.Impl;
 
 import com.example.ProducerService.DTO.ProductDTO;
-import com.example.ProducerService.Entity.Product;
-import com.example.ProducerService.Repository.ProductRepository;
 import com.example.ProducerService.Service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
